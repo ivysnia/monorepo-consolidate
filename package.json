@@ -1,0 +1,10 @@
+{
+  "name": "monorepo-consolidate",
+  "version": "1.0.0",
+  "description": "Consolidates npm package versions across workspaces",
+  "main": "index.js",
+  "repository": "https://github.com/ivysnia/monorepo-consolidate",
+  "author": "Ignas Vysniauskas",
+  "license": "GPL-2.0-or-later",
+  "private": false
+}
